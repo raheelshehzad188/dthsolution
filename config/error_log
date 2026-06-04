@@ -1,0 +1,16 @@
+[25-May-2024 22:11:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shopping/test.quickon.pk/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shopping/test.quickon.pk/config/database.php on line 18
+[01-Jun-2024 03:55:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shopping/quickon.pk/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shopping/quickon.pk/config/database.php on line 18
+[01-Jun-2024 03:55:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shopping/quickon.pk/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shopping/quickon.pk/config/database.php on line 18
+[31-Jan-2025 07:07:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/quicknow/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/quicknow/public_html/config/database.php on line 18
